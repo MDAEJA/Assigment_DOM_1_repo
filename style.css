@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.containerDiv{
+    height: 200px;
+    width: 300px;
+    background-color: yellow;
+    padding: 10;
+    margin: 20px;
+    color: blue;
+    font-size: 18px;
+    font-weight: bold;
+}
