@@ -22,7 +22,7 @@ In this project, we have applied various style attributes to the target element 
 
 You can view the live version of this project by visiting the following link:
 
-[Live Project](https://shah9380.github.io/DOM_Project_1/)
+[Live Project](https://mdaeja.github.io/Assigment_DOM_1_repo/)
 
 Enjoy the enhanced UI experience!
 
